@@ -1,3 +1,5 @@
+SEE THE "2022 MT EXPECTATIONS.DOCX" FILE TO UNDERSTAND THE PURPOSE OF THE APP
+
 MT_odds app by @Faeli42 was developed using Java language / IntelliJIdea environment.
 
 To run it, you might need to update your JDK:
