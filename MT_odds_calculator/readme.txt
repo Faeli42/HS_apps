@@ -1,4 +1,4 @@
-MT_odds by @Faeli42 was developed using Java language / IntelliJIdea environment.
+MT_odds app by @Faeli42 was developed using Java language / IntelliJIdea environment.
 
 To run it, you might need to update your JDK:
 https://www.oracle.com/java/technologies/downloads/#jdk17-windows
